@@ -1,0 +1,11 @@
+{
+  "name": "Health Conscious",
+  "description": "Master Daily Life Health & Routine Tracker with Circular Progress Graphs, Live Clock, Location Prayer Times with Jummah, AI Food Calorie Scanner, BMI Food Guide & Gemini Health Coach.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA",
+    "android.permission.ACCESS_FINE_LOCATION",
+    "android.permission.ACCESS_COARSE_LOCATION"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
